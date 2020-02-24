@@ -1,7 +1,7 @@
 # alpha_9
 alpha9 Mechanical Keyboard Case
 
-![ComboTopView](https://github.com/dingusxmcgee/alpha_9/blob/master/Renders/Combo_Top_1.jpg)
+![ComboTopView](https://github.com/dingusxmcgee/alpha_9/blob/master/Renders/alpha9_Combo_Top_1.jpg)
 
 alpha9 is a 3d Printable case for the alpha9 pcb by Worldspawn.
 The alpha9 builds off the legacy of the alpha(by PyroL) by adding a 9 key section on either side, made possible by a reversible pcb design).
