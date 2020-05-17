@@ -14,7 +14,7 @@ Holes in the top piece are 1.75mm to give screws more material to latch onto. Bu
 Case can easily be modified to accomodate different screw sizes. 
 Step files included.
 
-The cases in this repo are for both a Left Handed and a Right Handed version. Both cases are identical in height, width and lenght, with primary differences being the 9 key clusters on either side and the variance in USB port placement(due to Pro micro placement on the pcb).
+The cases in this repo are for both a Left Handed and a Right Handed version. Both cases are identical in height, width and length, with primary differences being the 9 key clusters on either side and the variance in USB port placement(due to Pro micro placement on the pcb).
 
 Thanks for looking!
 
