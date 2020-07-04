@@ -11,7 +11,6 @@ PCB includes room for 1 led.
 Case features a 1.5mm integrated plate(plate is built into the top piece)
 Case is designed to use 8 12mm m2 screws.
 Holes in the top piece are 1.75mm to give screws more material to latch onto. Builds can optionally use heat(or other) set inserts, and drill more hole space as needed.
-Case can easily be modified to accomodate different screw sizes with the included STEP files.
 
 The cases in this repo are for both a Left Handed and a Right Handed version. Both cases are identical in height, width and length, with primary differences being the 9 key clusters on either side and the variance in USB port placement(due to Pro micro placement on the pcb).
 
