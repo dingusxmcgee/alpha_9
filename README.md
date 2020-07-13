@@ -14,6 +14,8 @@ Holes in the top piece are 1.75mm to give screws more material to latch onto. Bu
 
 The cases in this repo are for both a Left Handed and a Right Handed version. Both cases are identical in height, width and length, with primary differences being the 9 key clusters on either side and the variance in USB port placement(due to Pro micro placement on the pcb).
 
+PCB availability is dependent on reaching out to Worldspawn (etsy site is here: https://www.etsy.com/shop/WorldspawnsKeebs)
+
 Thanks for looking!
 
 Credit to PyroL for the original alpha keyboard, and Worldspawn for the PCB work on the alpha9.
