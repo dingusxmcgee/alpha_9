@@ -20,3 +20,13 @@ Thanks for looking!
 
 Credit to PyroL for the original alpha keyboard, and Worldspawn for the PCB work on the alpha9.
 Thanks to Soft, Brad and Taylor from 40s discord for their input and advice.
+
+
+*All files are provided as is and I accept no liability if they aren't very good.*
+
+*These files were made for 3D Print use and are not designed to be milled by a CNC machine. Milling will require changes to these files.*
+
+*Licensed with Unlicense*
+
+
+If you would like to support me in some way, consider [buying me a coffee :)](https://www.buymeacoffee.com/dingusxmcgee)
